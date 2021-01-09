@@ -1,0 +1,17 @@
+{
+    "name": "vimeo-downloader",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "axios": "^0.21.1",
+        "chalk": "^4.1.0",
+        "cheerio": "^1.0.0-rc.5",
+        "draftlog": "^1.0.12"
+    }
+}
